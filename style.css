@@ -2,6 +2,10 @@
     font-family: fantasy
 }
 
+body {
+    background-color: chocolate;
+}
+
 h1 {
 
     display: block;
@@ -16,4 +20,6 @@ p {
     padding: 2em;
     margin: 2em;
     border: 2px solid salmon;
+
+    color: white;
 }
