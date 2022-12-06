@@ -9,8 +9,11 @@ h1 {
     text-align: center;
 
     color: goldenrod;
+    text-decoration: underline;
 }
 
 p {
     padding: 2em;
+    margin: 2em;
+    border: 2px solid salmon;
 }
